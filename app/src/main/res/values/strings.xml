@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">implicit lntent Sample</string>
+    <string name="bt_map_search">Search map</string>
+    <string name="tv_current_title">Current location</string>
+    <string name="tv_latitude_title">Latitude:</string>
+    <string name="tv_longitude_title">Longitude:</string>
+    <string name="bt_map_current">Show map</string>
+    <string name="hint_search_word">search words</string>
+</resources>
